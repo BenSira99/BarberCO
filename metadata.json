@@ -1,0 +1,6 @@
+{
+  "name": "L'Atelier Privé - Coiffure & Beauté",
+  "description": "Plateforme de gestion complète pour coiffeurs et coiffeuses : rendez-vous salon & domicile, rappels WhatsApp, statistiques financières et messagerie intégrée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

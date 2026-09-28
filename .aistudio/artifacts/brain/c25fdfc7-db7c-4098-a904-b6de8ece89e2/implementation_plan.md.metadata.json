@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan architectural et fonctionnel complet pour l'application de gestion de salon de coiffure et réservation en ligne L'Atelier Privé, intégrant la double interface Pro / Client, la prise de rendez-vous en salon et à domicile, le fichier client technique, les rappels WhatsApp personnalisables, le chat en direct, les statistiques financières et la persistance Firebase Firestore / Auth.",
+  "updatedAt":  "2026-09-28T18:37:05.791955381Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
